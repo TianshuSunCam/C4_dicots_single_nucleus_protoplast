@@ -2,7 +2,9 @@
 Single-nucleus and single-protoplast analysis of two C4 plants: Gynandropsis gynandra and Flaveria bidentis
 
 Conserved spatial patterning of gene expression in independent lineages of C4 plants
+
 Tianshu Sun, Venkata Suresh Bonthala, Benjamin Stich, ProfileLeonie Helene Luginbuehl, Julian Michael Hibberd
+
 doi: https://doi.org/10.1101/2025.05.14.654047
 
 C4 photosynthesis enhances carbon fixation efficiency by reducing photorespiration through the use of an oxygen-insensitive carboxylase and spatial separation of photosynthesis between mesophyll and bundle sheath cells. The C4 pathway has evolved independently in more than sixty plant lineages but molecular mechanisms underpinning this convergence remain unclear. To explore this, we generated high-resolution transcriptome atlases for two independently evolved C4 dicotyledonous species - Gynandropsis gynandra (NAD-ME subtype) and Flaveria bidentis (NADP-ME subtype). 
