@@ -8,8 +8,8 @@ GENOME_NAME="F.bidentis"
 
 # Generate reference
 $SOFTWARE_DIR/cellranger mkref --genome=$GENOME_NAME \
-  --fasta=Flaveria_bidentis.fa \
-  --genes=Flaveria_bidentis.gtf
+  --fasta=Fb_013.Unphased_Scaffolds_changed.fasta \
+  --genes=Fbidentis_MAKER_Helixer.AGAT.LongIso.gtf
 
 # Define samples
 declare -A SAMPLES
