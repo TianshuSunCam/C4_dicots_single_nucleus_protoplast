@@ -1,6 +1,11 @@
 # C4_dicots_single_nucleus_protoplast
 Single-nucleus and single-protoplast analysis of two C4 plants: Gynandropsis gynandra and Flaveria bidentis
 
+Seurat objects can be downloaded from: https://figshare.com/articles/dataset/Conserved_spatial_patterning_of_gene_expression_in_independent_lineages_of_C4_plants/30787166
+The genome assembly and annotation can be accessed at: https://figshare.com/s/7fb9444d7cefef0c341f. 
+The single-protoplast and single-nucleus sequencing data are available at ArrayExpress under accession no.: E-MTAB-15121.
+Our atlases can be explored via online web portals: https://hibberdlab.shinyapps.io/gg_integrated/ for G. gynandra and https://hibberdlab.shinyapps.io/fb_integrated/ for F. bidentis. 
+
 Conserved spatial patterning of gene expression in independent lineages of C4 plants
 
 Tianshu Sun, Venkata Suresh Bonthala, Benjamin Stich, ProfileLeonie Helene Luginbuehl, Julian Michael Hibberd
